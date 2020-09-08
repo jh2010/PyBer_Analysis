@@ -9,6 +9,7 @@ As seen from the table below, there are some differences amongst the city types.
 #### Pyber ride summary table
 ![image_name](https://github.com/jh2010/PyBer_Analysis/blob/master/images/pyber-ride-summary.png)
 
+As seen from the gragh below, the urban ride totals had the highest total fares compared to the suburban and rural city types.  In addition you can see that all three city types had a surge towards the end of february.  This surge could be based on weather or a regional event.
 
 #### Pyber total fare by city type chart
 ![image_name](https://github.com/jh2010/PyBer_Analysis/blob/master/images/pyber-total_fare_by_city_type.png)

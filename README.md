@@ -15,7 +15,7 @@ As seen from the gragh below, the urban ride totals had the highest total fares 
 ![image_name](https://github.com/jh2010/PyBer_Analysis/blob/master/images/pyber-total_fare_by_city_type.png)
 
 ## Summary
-From the analysis above, we could make some recommendations to the CEO of the company.  The biggest demand, as we can see, was in the urban areas where there were short distances and maybe many people do not own cars.  To expand the business in the rural areas some factors need to be taken into consideration: Car ownership, Internet access, credit cards vs cash, mobile devices.  Also, a low population density in the rural areas might not need that many rides, but areas around University campuses might have higher demand.
+From the analysis above, we could make some recommendations to the CEO of the company.  The biggest demand, as we can see, was in the urban areas where there were short distances and maybe many people do not own cars.  To expand the business in the rural areas some factors need to be taken into consideration: car ownership, Internet access, credit cards vs cash, mobile devices.  Also, a low population density in the rural areas might not need that many rides, but areas around university campuses might have higher demand.
 
 ### Recomendations:
 1.  For Urban areas focus on Internet/Mobile device advertising

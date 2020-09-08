@@ -15,3 +15,4 @@ As seen from the gragh below, the urban ride totals had the highest total fares 
 ![image_name](https://github.com/jh2010/PyBer_Analysis/blob/master/images/pyber-total_fare_by_city_type.png)
 
 ## Summary
+After
